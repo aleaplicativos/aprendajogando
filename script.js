@@ -417,6 +417,16 @@ let palavras = [
 {"palavra": "analogia", "dica": "comparação entre coisas diferentes para ressaltar semelhanças"},
 {"palavra": "abstrato", "dica": "algo que não é concreto ou tangível, mas conceitual ou mental"},
 {"palavra": "paródia", "dica": "imitação cômica ou satírica de uma obra ou estilo"},
+{"palavra": "visão", "dica": "um dos cinco sentidos, permite enxergar o mundo"},
+{"palavra": "audição", "dica": "um dos cinco sentidos, permite ouvir sons e ruídos"},
+{"palavra": "olfato", "dica": "um dos cinco sentidos, permite detectar odores e aromas"},
+{"palavra": "tato", "dica": "um dos cinco sentidos, permite sentir o contato com objetos e texturas"},
+{"palavra": "paladar", "dica": "um dos cinco sentidos, permite saborear alimentos e identificar sabores"},
+{"palavra": "aprendizado", "dica": "processo de adquirir conhecimento ou habilidades por meio do estudo ou da experiência"},
+{"palavra": "memorização", "dica": "ato de armazenar informações na memória"},
+{"palavra": "percepção", "dica": "capacidade de perceber e interpretar estímulos do ambiente"},
+{"palavra": "concentração", "dica": "foco mental em uma tarefa ou atividade específica"},
+{"palavra": "motivação", "dica": "força interna que impulsiona a pessoa a agir ou buscar objetivos"},
 
 ]
 
